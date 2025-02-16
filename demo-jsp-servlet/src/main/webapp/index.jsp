@@ -52,7 +52,7 @@
 <body>
 <h1>Welcome to JSP - Hello World!</h1>
 <div class="button-container">
-    <a href="hello-servlet">Go to Hello Servlet</a>
+    <a href="login.jsp">Go to Login Page</a>
 </div>
 <footer>© 2025 Your Company Name</footer>
 </body>
